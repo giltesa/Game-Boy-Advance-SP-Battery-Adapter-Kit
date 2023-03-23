@@ -1,6 +1,0 @@
-![GBASP-BAT](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-Battery-Adapter-Kit/master/5.%20Photos/GBA%20SP%20Battery%20Adapter%20Kit%20-%201.jpg)
-![GBASP-BAT](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-Battery-Adapter-Kit/master/5.%20Photos/GBA%20SP%20Battery%20Adapter%20Kit%20-%202.jpg)
-![GBASP-BAT](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-Battery-Adapter-Kit/master/5.%20Photos/GBA%20SP%20Battery%20Adapter%20Kit%20-%203.jpg)
-![GBASP-BAT](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-Battery-Adapter-Kit/master/5.%20Photos/GBA%20SP%20Battery%20Adapter%20Kit%20-%204.jpg)
-![GBASP-BAT](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-Battery-Adapter-Kit/master/5.%20Photos/GBA%20SP%20Battery%20Adapter%20Kit%20-%205.jpg)
-![GBASP-BAT](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-Battery-Adapter-Kit/master/5.%20Photos/GBA%20SP%20Battery%20Adapter%20Kit%20-%206.jpg)
