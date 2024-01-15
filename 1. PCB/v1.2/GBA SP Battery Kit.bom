@@ -1,0 +1,10 @@
+Partlist exported from GBA SP Battery Kit.sch at 12/02/2023 13:06:38
+
+Assembly variant:
+
+Qty Value           Device              Parts
+1   1k              R0402               R1
+1   100R            R0402               R2
+1   100nF           C0402               C1
+1   FS312FG         FS312FG             IC2
+1   FS8205A         FS8205              IC1
